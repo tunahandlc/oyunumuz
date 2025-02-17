@@ -2,5 +2,6 @@ using UnityEngine;
 
 public class NewEmptyCSharpScript
 {
-    int eseketifurkan; 
+    int eseketifurkan;
+    int tunaeseketiyeme;
 }
